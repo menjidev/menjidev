@@ -39,10 +39,10 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
 ## 💼 Experiencia
 
 **Media Power — Prácticas (Desarrollo Web / SEO)**  
-Maquetación web, uso de Figma y optimización SEO On Page.
+Maquetación web con HTML, CSS y JavaScript. Prototipado en Figma.
 
 **PinkStone — Prácticas (Maquetación / SEO)**  
-WordPress + Elementor, adaptación de contenidos, usabilidad y posicionamiento.
+WordPress + Elementor, adaptación de contenidos, usabilidad y optimización SEO On Page.
 
 ---
 
