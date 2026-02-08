@@ -33,6 +33,25 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
 
 ## 📌 Proyectos destacados
 
+## Proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/menjidev/myworkoutlog_2025" target="_blank">
+    <img src="Miniatura-Proyecto-Myworkoutlog.png" alt="MyWorkoutLog - 2025" width="720">
+  </a>
+</p>
+
+<p align="center">
+  <strong>MyWorkoutLog - 2025</strong><br>
+  Proyecto Final CFGS Desarrollo de Aplicaciones Web (DAW)<br>
+  Aplicación web en PHP con arquitectura MVC propio (Sin frameworks), CRUD básico<br><br>
+  <a href="https://github.com/menjidev/myworkoutlog_2025" target="_blank">Ver repositorio</a>
+</p>
+
+---
+
+## Experiencia
+
 
 ---
 
