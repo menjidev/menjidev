@@ -34,6 +34,7 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
 ## 📌 Proyectos destacados
 
 ## Proyectos destacados
+<br> 
 
 <p align="center">
   <a href="https://github.com/menjidev/myworkoutlog_2025" target="_blank">
