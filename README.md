@@ -48,6 +48,18 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
   <a href="https://github.com/menjidev/myworkoutlog_2025" target="_blank">Ver repositorio</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/menjidev/web_para_depisana_2024" target="_blank">
+    <img src="depisana.png" alt="Depisana - 2024" width="720">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Depisana - (2024)</strong><br>
+  Página web para empresa de depilación láser<br>
+  Página web responsive<br><br>
+  <a href="https://github.com/menjidev/web_para_depisana_2024" target="_blank">Ver repositorio</a>
+</p>
 ---
 
 ## Experiencia
