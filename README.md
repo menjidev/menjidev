@@ -44,7 +44,7 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
 <p align="center">
   <strong>MyWorkoutLog - 2025</strong><br>
   Proyecto Final CFGS Desarrollo de Aplicaciones Web (DAW)<br>
-  Aplicación web en PHP con arquitectura MVC propio (Sin frameworks), CRUD básico<br><br>
+  Aplicación web en PHP con arquitectura MVC propio (Sin frameworks), CRUD básico<br>
   <a href="https://github.com/menjidev/myworkoutlog_2025" target="_blank">Ver más</a>
 </p>
 <br>
@@ -57,7 +57,7 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
 <p align="center">
   <strong>Depisana - (2024)</strong><br>
   Página web para empresa de depilación láser<br>
-  Página web responsive<br><br>
+  Página web responsive<br>
   <a href="https://github.com/menjidev/web_para_depisana_2024" target="_blank">Ver más</a>
 </p>
 
