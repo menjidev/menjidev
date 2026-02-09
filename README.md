@@ -62,6 +62,19 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
   <a href="https://github.com/menjidev/web_para_depisana_2024" target="_blank">Ver más</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/menjidev/clothing_store_2024" target="_blank">
+    <img src="Captura de pantalla 2026-02-09 142155.png" alt="Clothing Store - 2024" width="720">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Clothing Store - 2024</strong><br>
+  Proyecto final certificado de profesionalidad IFCD0210<br>
+  Aplicación web en PHP y MySQL (sin frameworks) que simula una tienda de ropa con catálogo por categorías, filtros de búsqueda, favoritos y panel de administración con CRUD de productos y usuarios. <br>
+  <a href="https://github.com/menjidev/clothing_store_2024" target="_blank">Ver más</a>
+</p>
+
 ## Experiencia
 
 
