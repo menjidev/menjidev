@@ -75,7 +75,7 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
   <a href="https://github.com/menjidev/clothing_store_2024" target="_blank">Ver más</a>
 </p>
 <br>
-## Experiencia
+
 
 
 ---
