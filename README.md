@@ -64,7 +64,7 @@ Desarrollador web **junior** con **CFGS de Desarrollo de Aplicaciones Web (DAW) 
 <br>
 <p align="center">
   <a href="https://github.com/menjidev/clothing_store_2024" target="_blank">
-    <img src="Captura de pantalla 2026-02-09 142155.png" alt="Clothing Store - 2024" width="720">
+    <img src="miniatura-clothing-store.png" alt="Clothing Store - 2024" width="720">
   </a>
 </p>
 
